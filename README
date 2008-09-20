@@ -1,0 +1,12 @@
+HttpBasicAuth
+=============
+
+Authenticates against a table for user and password.
+
+Example
+=======
+
+
+
+
+Copyright (c) 2008 Mike Gaffney, released under the MIT license
